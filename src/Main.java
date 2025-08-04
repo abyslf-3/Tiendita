@@ -51,7 +51,7 @@
                             break;
 
                         case 4:
-                            System.out.println("Gracias por visitar la tienda. ¡Hasta pronto!");
+                            System.out.println("Gracias por visitar la Tiendita. ¡Hasta pronto!");
                             break;
 
                         default:
